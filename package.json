@@ -1,0 +1,30 @@
+{
+  "name": "autoinstall",
+  "version": "1.0.0",
+  "description": "A library that automatically install and can run grunt/gulp when required",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyism/node-autoinstall.git"
+  },
+  "keywords": [
+    "npm",
+    "auto",
+    "install",
+    "library",
+    "devops",
+    "automatic",
+    "installation",
+    "stream",
+    "line"
+  ],
+  "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyism/node-autoinstall/issues"
+  },
+  "homepage": "https://github.com/joeyism/node-autoinstall#readme"
+}
